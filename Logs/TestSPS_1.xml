@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="TestSPS_1.xml" projectName="C:\Users\E780\Desktop\TestSPS.xlsx" typeText="Typ" messageText="Meldung" timeText="Zeit">
+  <LogEntry type="Warning" dateTime="20:18:50">
+    <Message>Die Versionskennung fehlt in den Eigenschaften der XLSX-Datei. Es wird davon ausgegangen, dass es sich um die aktuellste Version handelt.</Message>
+  </LogEntry>
+</LogFile>

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="TestSPS.xml" projectName="C:\Users\E780\Desktop\TestSPS.xlsx" typeText="Typ" messageText="Meldung" timeText="Zeit">
+  <LogEntry type="Error" dateTime="20:18:12">
+    <Message>Beim Laden der Datei C:\Users\E780\Desktop\TestSPS.xlsx ist ein Fehler aufgetreten, möglicherweise wird die Datei gerade bearbeitet oder die Datei ist schreibgeschützt.</Message>
+  </LogEntry>
+</LogFile>
